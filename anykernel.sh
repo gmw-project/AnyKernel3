@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Persona kernel by aarunalr
+kernel.string=YeetAnother -perf by aarunalr
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=beryllium
 device.name2=PocoF1
-device.name3=
+device.name3=PocophoneF1
 device.name4=
 device.name5=
 supported.versions=
