@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=YeetAnother -perf by aarunalr
+kernel.string=gmw by goodmeow
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
